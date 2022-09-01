@@ -1,5 +1,4 @@
 import './style.css';
-import { Subject } from 'rxjs';
 import { loadingService } from './loadingService';
 
 const loadingOverlay = document.getElementById('loading-overlay');
